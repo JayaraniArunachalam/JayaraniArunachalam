@@ -63,4 +63,4 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 
 ### How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
-- [mail to](@jayaraniarunachalam@gmail.com)
+- mail to: jayaraniarunachalam@gmail.com
