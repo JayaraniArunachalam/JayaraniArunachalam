@@ -15,9 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=JayaraniArunachalam&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
-I am Jayarani Arunachalam.
+## I am Jayarani Arunachalam.
+**Data Analyst | Power BI | Excel | SQL | Python | Banking Domain**
 
-I am a Data Analyst focused on turning complex datasets into actionable insights. I bridge the gap between traditional spreadsheet analysis and modern, scalable cloud data processing possessing a <strong> strong experience in banking domain <strong>
+I am a Data Analyst focused on turning complex datasets into actionable insights. I bridge the gap between traditional spreadsheet analysis and modern, scalable cloud data processing with <strong> strong experience in banking domain <strong>
 
 ### What I’m Working On
 
@@ -26,7 +27,7 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 - SQL for data extraction & transformation
 - Python for data analysis & automation
 - Analytics storytelling & presentation skills
-
+---
 ### Skills & Tools
 #### Data & Analytics
 - Power BI (DAX, Data Modeling, Visual Design)
@@ -49,11 +50,12 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 - Stakeholder-focused KPIs & drill-downs
 
 🔹[SQL Datawarehouse Project](https://github.com/JayaraniArunachalam/SQL_DATA_WAREHOUSE_PROJECT)
-
+- Build a Datawarehouse using Medallion Architecture
+- Designed and queried structured datasets for analytical reporting 
 
 
 ### 🎯 Career Goal
-#### To secure a Data Analyst role where I can:
+#### To secure a **Data Analyst** role where I can:
 - Solve business problems using data
 - Build insightful dashboards & reports
 - Grow into advanced analytics & decision science
