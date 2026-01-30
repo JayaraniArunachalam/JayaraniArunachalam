@@ -38,7 +38,7 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 - Excel (Advanced formulas, Pivot Tables)
 - Git & GitHub
 - Databricks (Beginner – projects & challenges)
-
+---
 ### Featured Projects
 
 🔹 [IPL Economic & Social Impact Dashboard](https://github.com/JayaraniArunachalam/IPL-2025-Economic-and-social-Impact-Analysis)
@@ -52,14 +52,14 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 🔹[SQL Datawarehouse Project](https://github.com/JayaraniArunachalam/SQL_DATA_WAREHOUSE_PROJECT)
 - Build a Datawarehouse using Medallion Architecture
 - Designed and queried structured datasets for analytical reporting 
-
+---
 
 ### 🎯 Career Goal
 #### To secure a **Data Analyst** role where I can:
 - Solve business problems using data
 - Build insightful dashboards & reports
 - Grow into advanced analytics & decision science
-
+---
 ### How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
 - mail to: jayaraniarunachalam@gmail.com
