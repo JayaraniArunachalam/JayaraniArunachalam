@@ -15,12 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=JayaraniArunachalam&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
+I am Jayarani Arunachalam.
 
-I'm Jayarani Arunachalam
-
-Power BI | Excel | SQL | Python| Banking Domain
-
-I am a Data Analyst focused on turning complex datasets into actionable insights. I bridge the gap between traditional spreadsheet analysis and modern, scalable cloud data processing.
+I am a Data Analyst focused on turning complex datasets into actionable insights. I bridge the gap between traditional spreadsheet analysis and modern, scalable cloud data processing possessing a <strong> strong experience in banking domain <strong>
 
 ### What I’m Working On
 
