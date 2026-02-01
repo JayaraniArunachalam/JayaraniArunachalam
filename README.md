@@ -34,7 +34,7 @@ I am a Data Analyst focused on turning complex datasets into actionable insights
 #### Data & Analytics
 - Power BI (DAX, Data Modeling, Visual Design)
 - SQL (Joins, CTEs, Window Functions)
-- Python (Pandas, NumPy, Matplotlib – learning in progress)
+- Python (Pandas, NumPy, Matplotlib, PySpark)
 - Statistics (Descriptive stats, probability basics, hypothesis testing)
 #### Other Tools
 - Excel (Advanced formulas, Pivot Tables)
